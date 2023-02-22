@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # for Telegram
-bot = telebot.TeleBot('6060977596:AAEPniJwXd3n1U7KLhedQdX9Luiq6Uk6Wuo')
+bot = telebot.TeleBot('')
 
 data = {}
 
