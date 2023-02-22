@@ -3,8 +3,8 @@ from datetime import datetime
 import time as t
 
 # for VK
-user_id = '539607251'
-token = 'vk1.a.ksqO5DFI2KEmJBd_9m0_iNCo_NgOfQSKNNsXJ-4IU9LLL4IcOiqeSRuSQ9IKXksc0cQwT8tVuXLSceZqh1Nwzz0sDU1ZDbvAD398IkCdeOVGmlpkNxQUz4iPQBSLr07MaieUT0fw2cf541Sgja2LNfxyd8fOX8bXGFvL697uUtedESqh4dPq4DqfVA8yQQ5hD_jvnLEiN5kmvbR_JD-XNA'
+user_id = ''
+token = ''
 
 def calculationTime(iMinute, iHour, iDay, iMonth, startMinute, startHour, startDay, startMonth):
 
