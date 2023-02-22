@@ -2,6 +2,9 @@ import vk_api, json
 from datetime import datetime
 import time as t
 
+import os
+os.system(f"python {'tgBotConnection.py'} &")
+
 # for VK
 user_id = ''
 token = ''
